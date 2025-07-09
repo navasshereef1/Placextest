@@ -4,7 +4,7 @@ A modern HTML project utilizing Tailwind CSS for building responsive web applica
 
 ## 🚀 Features
 
-- **HTML5** - Modern HTML structure with best practices
+- **HTML5** - Modern HTML structure with best practices 
 - **Tailwind CSS** - Utility-first CSS framework for rapid UI development
 - **Custom Components** - Pre-built component classes for buttons and containers
 - **NPM Scripts** - Easy-to-use commands for development and building
